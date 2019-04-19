@@ -1,0 +1,9 @@
+Configure the script to determine whether it's a Mac or Windows Machine.
+Navigate to the sign up page using the given link.
+Click on “Join as Individual”.
+Navigate to this URL "http://dev.workmarket.com/login".
+Login using the provided UserName & Password.
+Click on login button.
+Click on the “Find Talent” link.
+Type & Search for the word “test” in the search bar to ensure that every result on the first page contains that search criteria.
+Lastly Using close() to close the current browser.
